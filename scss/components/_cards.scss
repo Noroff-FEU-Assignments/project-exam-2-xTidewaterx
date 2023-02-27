@@ -1,0 +1,126 @@
+
+
+.profile-avatar-image {
+
+    margin: 0px;
+}
+
+.follow-button {
+
+    margin: 0px;
+}
+
+
+.follow-container {
+
+
+    text-align: left;
+    padding: 0px;
+
+  
+}
+
+
+
+
+
+.row.profile-row {
+
+    .col-sm-3 {
+
+        padding: 0px;
+    }
+
+    .col-sm-8 {
+
+        padding: 0px;
+    }
+}
+
+
+
+button.follow-button {
+
+    width: 70px;
+}
+
+
+
+
+
+.post-container.w-50.p-3  {
+    max-width: 500px;
+margin-bottom: 250px;
+
+background-color: #00000031;
+padding-bottom: 200px;
+display: flexbox;
+margin: 0 auto;
+border-radius: 5px;
+
+background-color: #e7f2f0;
+
+}
+
+
+
+
+.card.card-specific-post {
+
+
+    width: 50vw;
+    max-width: 700px;
+    min-width: 200px;
+
+    img {
+
+ 
+        height: auto;
+        width: auto;
+        max-width: 600px;
+        margin: 0px;
+        padding: 0px;
+        display: flex;
+        margin: 0 auto;
+
+    }
+
+    border: 3px solid #000000;
+}
+
+
+
+
+
+
+
+
+.post-image-card {
+
+padding-bottom: 30px;
+margin-bottom: 30px;
+    img {
+        height: 280px;
+        width: 280px;
+        max-width:280px;
+        max-height: 280px;
+        padding-left: 27px;
+ margin-top: -50px;
+        width:80%;
+        overflow: hidden;
+ 
+         object-fit:cover;
+    }
+
+    border-bottom: 2px solid #a5a5a5;
+    
+}
+
+
+img[src="nothing"].commentsection-post-images {
+
+
+
+        display: none;
+       
+}
