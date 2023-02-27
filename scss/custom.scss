@@ -513,6 +513,43 @@ img {
 }
 
 @media only screen and (max-width: 600px) {
+.post-image-card {
+    margin-top: 10px;
+    padding-top: 80px;
+}
+
+
+img.post-image-card {
+ 
+        margin-top: 10px;
+ 
+    
+}
+
+#follow-container-point-value {
+
+    margin-top: 28px;
+}
+
+
+
+
+
+
+
+
+
+    .follow-container {
+        margin-top: 29px;
+    }
+    .col-lg-3.p-0 {
+
+        margin: 0 auto;
+        width: 70px;
+        display: block;
+        max-height: 150px;
+    }
+    
 
 .side-avatar-username {
 
@@ -558,7 +595,7 @@ img {
 
     .post-image-card {
 
-        margin-top: 50px;
+        margin-top: 100px;
         padding-left: 27px;
 
         img {
@@ -571,6 +608,9 @@ img {
     .post-image-card img {
 
         padding-left: 23px;
+        padding-top: 100px;
+  
+
     }
      
 .all-profiles-container {
@@ -670,10 +710,7 @@ textArea {
 }
 
 
-.profile-card-container-outline {
 
-   
-}
 
 .loading-container {
 
