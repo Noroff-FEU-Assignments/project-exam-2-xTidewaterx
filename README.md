@@ -17,6 +17,8 @@ Built with
 
     Open terminal in VSC, proceed with the following npm commands:
 
+    npm i
+
     npm run build
 
     npm run start
