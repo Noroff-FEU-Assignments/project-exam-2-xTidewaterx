@@ -172,7 +172,7 @@ if(state==null) {
 
 
                 
-<div className="follow-container" style={{padding:"0px", marginTop: "-10px"} }>
+<div className="follow-container" id="follow-container-point-value" style={{padding:"0px"} }>
 
 <div className="row pl-0 m-0">
 
