@@ -167,7 +167,7 @@ if(state==null) {
       />  </Link>  <div className="col-sm-9 side-avatar-username"><p className="mb-0 ms-0 mt-2 fw-bold text-center">{item.author.name}    <p className="mb-0 me-2 ms-0 mt-2 email-tag fw-light">     @{item.author.email}
                 </p>  <p className="email-tag fw-light">  </p></p></div> </div> 
       
-      <div className="col-sm-9 under-avatar-username"><p className="mb-0 ms-0 mt-2 fw-bold text-start">{item.author.name}    <p className="mb-0 me-2 ms-0 mt-2 email-tag fw-light">     @{item.author.email}
+      <div className="col-sm-9 under-avatar-username"><p className="mb-0 ms-0 mt-2 fw-bold text-center">{item.author.name}    <p className="mb-0 me-2 ms-0 mt-2 email-tag fw-light">     @{item.author.email}
                 </p>  <p className="email-tag fw-light">  </p></p></div>
 
 
