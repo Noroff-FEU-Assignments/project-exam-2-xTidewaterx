@@ -11292,6 +11292,25 @@ link {
 }
 
 @media only screen and (max-width: 600px) {
+
+
+
+    .post-image-card {
+        margin-top: 10px;
+        padding-top: 70px;
+ 
+    
+    }
+
+
+
+
+  #follow-container-point-value {
+
+    margin-top: 28px;
+}
+
+
   .side-avatar-username {
     display: none;
   }
