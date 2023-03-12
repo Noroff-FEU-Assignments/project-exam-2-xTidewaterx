@@ -18,7 +18,7 @@ Authenticated users are granted access to the application. Each user is register
 ## Built With
 
 
-
+- [JavaScript](https://www.javascript.com/)
 - [React.js](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com)
 - [Sass](https://sass-lang.com/)
